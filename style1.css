@@ -1,0 +1,226 @@
+.global
+{
+  margin: auto;
+}
+.entete
+{
+    background-image: linear-gradient(0deg, #0b061f, #2d1d6d, #0b061f);
+    margin: auto;
+}
+
+@keyframes anim
+{
+    0%
+    { transform: translate(100%, -0%);}
+}
+
+.image
+{
+    position: relative;
+    left: 5%;
+    animation: anim 3s;
+}
+.nom
+{
+    position: relative;
+    bottom:170%;
+    left: 33%;
+}
+.fonction
+{
+    position: relative;
+    bottom:174%;
+    left: 33%;
+}
+
+/* on passe a autre chose*/
+
+.box_1
+{
+    position: relative;
+    top: 6%;
+    left: 1%;
+}
+.box_2
+{
+    position: relative;
+    left:52%;
+    bottom:69%;
+}
+
+/* on passe a autre chose*/
+
+.text_1
+{
+    position: relative;
+    left:6%;
+    bottom:173.5%;
+}
+.icon_1
+{
+    position: relative;
+    left:1%;
+    bottom: 2030px;
+}
+.text_2
+{
+    position: relative;
+    left:46%;
+    bottom:182.2%;
+}
+.icon_2
+{
+    position: relative;
+    left:40%;
+    bottom: 2132px;
+}
+.text_3
+{
+    position: relative;
+    left:76%;
+    bottom:191.5%;
+}
+.icon_3
+{
+    position: relative;
+    left:70%;
+    bottom: 2238px;
+}
+
+/* on passe a autre chose*/
+
+.text_2_1
+{
+    position: relative;
+    left:22%;
+    bottom:7%;
+}
+.icon_2_1
+{
+    position: relative;
+    left:4%;
+    top: 20px;
+}
+
+.description_1
+{
+    font-size: 22px;
+    position: relative;
+    left:22%;
+    bottom: 8%;
+}
+
+.text_2_2
+{
+    position: relative;
+    left:30%;
+    bottom:14.5%;
+}
+.icon_2_2
+{
+    position: relative;
+    left:4%;
+    bottom: 45px;
+}
+.description_2
+{
+    font-size: 25px;
+    position: relative;
+    left:30%;
+    bottom: 13%;
+}
+
+.text_2_3
+{
+    position: relative;
+    left:23%;
+    bottom:20.5%;
+}
+.icon_2_3
+{
+    position: relative;
+    left:4%;
+    bottom:100px;
+}
+.description_3
+{
+    font-size: 22px;
+    position: relative;
+    left:23%;
+    bottom: 21%;
+}
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.text_3_1
+{
+    position: relative;
+    left:22%;
+    bottom:7%;
+}
+.icon_3_1
+{
+    position: relative;
+    left:4%;
+    top: 20px;
+}
+
+.description_4
+{
+    font-size: 22px;
+    position: relative;
+    left:9%;
+    bottom: 6%;
+}
+
+.text_3_2
+{
+    position: relative;
+    left:22%;
+    bottom:13%;
+}
+.icon_3_2
+{
+    position: relative;
+    left:4%;
+    bottom: 45px;
+}
+.description_5
+{
+    font-size: 24px;
+    position: relative;
+    left:9%;
+    bottom: 13%;
+}
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.redirection
+{
+    position: relative;
+    left:18%;
+    top:-6%;
+}
+.travaux
+{
+    font-size: 23px;
+    font-weight: 1px;
+    text-decoration: none;
+    color: #ffffff;
+    position: relative;
+    left:4%;
+    top:19%;
+}
+a:hover
+{ color: #0847bd;}
+
+
+/*¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨*/
+
+nav
+{
+    display: inline;
+    justify-content: right;
+}
